@@ -1,2 +1,3 @@
 print("Materia: Desenvolvimento de software")
-ptinr("Primeira alteração")
+print("Primeira alteração")
+print("Segunda alteração")
